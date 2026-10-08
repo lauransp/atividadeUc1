@@ -1,0 +1,18 @@
+1)Sistema de cinema
+
+Entrada: 
+Escolha do filme
+Escolha do horário
+Escolha das poltronas
+
+Processamento:
+Finalizar compra 
+pagamento
+
+Saída:
+Ingresso
+
+Armazenamento:
+
+
+Controle:
