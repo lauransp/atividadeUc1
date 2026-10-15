@@ -1,0 +1,30 @@
+class Produto:
+    def __init__(self, cliente, valor_total, status):
+        self.cliente = cliente
+        self.valor_total = valor_total
+        self.status = status
+        
+
+    def mostrar_pedido(self):
+        print("cliente:", self.cliente)
+        print("valor_total: R$", self.valor_total)
+        print("status:", self.status)
+
+        
+def valor_total(self, valor_total):
+         if valor_total >= 0 and valor_total <= self.valor_total:
+                    self.valor_total = valor_total
+                    print("em preparo!")
+         else:
+               print("entregue!")
+
+    
+
+        
+pedidos1 = Produto("Mia", 50, "Em preparo!")
+pedidos2 = Produto("Bianca", 45, "Entregue!")
+
+pedidos1.mostrar_pedido()
+
+
+
